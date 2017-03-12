@@ -1,0 +1,28 @@
+Nama	: Fetrisye Delp Parenden
+NIM	: 1515015138
+
+1.	Bahasa natural
+a.	dian adalah orang
+b.	atoz adalah mobil
+c.	dian suka Atoz
+d.	atoz sedang dijual
+e.	dian dapat membeli atoz jika dian adalah orang dan atoz adalah mobil dan dian suka atoz dan atoz sedang dijual
+f.	setiap orang suka Apa
+
+2.	Bahasa Prolog
+a.	punya(ricky,hobi,catur)
+b.	orang(embang,pemalas)
+c.	orang(yusida,vegetarian)
+d.	pandai(kusdiar,main,gitar)
+e.	BMW(mobil,merah,milik,sadek)
+f.	pianis(awan,pontianak,jawa)
+g.	orang(baik,penyayang,dermawan)
+h.	pintar(matematika;ipa;ips;nilaitinggi)
+i.	orang(_,pastimati)
+
+
+Keyword:
+:- jika
+; atau
+, dan
+_ setiap
